@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Starbucks Website",
+			"path": "../../starbucks-website",
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+	  		//  Editor customization
+	  		"editor.background": "#000000",
+	  		"editor.foreground": "#00ff00",
+	  		//  DebugConsole customization
+			"debugConsole.infoForeground": "#00ff00",
+			"debugConsole.errorForeground": "#ff0000",
+	  		//  Terminal customization 
+			"terminal.foreground": "#00ff00",
+			"terminal.background": "#000000",
+	  	},
+
+	  	"files.exclude": { ".vscode": true, }
+
+	  	livePreview.hostIP": "10.60.7.56"
+	}
+}
